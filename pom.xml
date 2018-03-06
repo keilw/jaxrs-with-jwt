@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.abhirockzz</groupId>
-    <artifactId>jax-rs-with-jwt</artifactId>
+    <artifactId>jaxrs-with-jwt</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>jax-rs-with-jwt</name>
+    <name>jaxrs-with-jwt</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
@@ -15,7 +15,6 @@
     </properties>
 
     <dependencies>
-     
 
         <dependency>
             <groupId>javax</groupId>
